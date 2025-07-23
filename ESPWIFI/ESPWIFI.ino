@@ -1,3 +1,8 @@
+// Please support Youtube Channel ADSP
+// https://www.youtube.com/channel/UCaFqpdENcVNK2Zn4qY-vOzQ
+// VIDEO TUTOR: https://youtu.be/dzrSM-cvhgM
+// GITHUB: https://github.com/adsp17/ESP32-Wifi-Bluetooth
+
 #include <WiFi.h>
 const char* ssid = "ESP32_LED";
 const char* password = "12345678";
